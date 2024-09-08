@@ -78,7 +78,7 @@ const LeftSidebar = () => {
                 })
             })
             const uSnap = await getDoc(doc(db,"users",user.id));
-            const uData = uSnap = uSnap.data();
+            const uData  = uSnap.data();
             setChat({
                 messagesId:newMessageRef.id,
                 lastMessage:"",
