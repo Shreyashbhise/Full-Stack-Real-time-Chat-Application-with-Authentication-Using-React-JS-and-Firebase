@@ -10,3 +10,5 @@ Full Stack Real-time Chat Application with Authentication Using React JS and Fir
 ![Screenshot (121)](https://github.com/user-attachments/assets/045cd100-49ea-461b-bdfe-3c974c2ac655)
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/f0571be0-7a2f-403a-9b47-d60832eda33b)
+![Screenshot (125)](https://github.com/user-attachments/assets/ca1e6633-fdf8-4032-b598-0dd9ea057c86)
+![Screenshot (124)](https://github.com/user-attachments/assets/3eb1c191-7688-49ad-9b20-60e2538f3e74)
